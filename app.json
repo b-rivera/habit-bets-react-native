@@ -1,0 +1,21 @@
+{
+  "name": "habit-bets-reactnative",
+  "displayName": "Habit Bets",
+  "expo": {
+    "name": "habit-bets-reactnative",
+    "slug": "habit-bets-reactnative",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "riveratech.habitbets",
+      "versionCode": 1
+    }
+  }
+}
